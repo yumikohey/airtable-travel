@@ -1,0 +1,4 @@
+
+export function getCityTrip(destination) {
+
+}

@@ -1,0 +1,5 @@
+/node_modules
+/.airtableblocksrc.json
+/build
+/frontend/.key.js
+/frontend/constants.js
